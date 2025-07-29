@@ -8,8 +8,6 @@ Currently based in Spain and open to opportunities in **Data Engineering, Data S
 
 ## 🛠 Skills
 
-## 🛠 Skills
-
 ### Programming & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
@@ -32,7 +30,6 @@ Currently based in Spain and open to opportunities in **Data Engineering, Data S
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-- **Frontend:** Angular, React.js  
 
 ---
 
@@ -61,7 +58,6 @@ Currently based in Spain and open to opportunities in **Data Engineering, Data S
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/cjhd92/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjhd92/)
 [![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail)](mailto:cjhd92@gmail.com)  
 
