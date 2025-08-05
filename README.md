@@ -41,12 +41,6 @@ Currently based in Spain and open to opportunities in **Data Engineering, Data S
 -  [🔗 View on GitHub](https://github.com/cjhd92/Arquitectura-Medall-n-con-Databricks-y-Delta-Lake.git
 
 
-- **🏭 Industrial Data Automation Project**  
-  Automated monitoring systems for water treatment plants (Reverse Osmosis, Chillers).  
-  Developed ETL processes with Python & SQL and deployed KPIs dashboards.  
-
-- **📊 Energy Consumption Dashboard**  
-  Streamlit dashboard powered by dbt models for exploratory analysis and performance monitoring.  
 
 ---
 
