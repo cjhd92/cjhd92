@@ -35,8 +35,7 @@ Currently based in Spain and open to opportunities in **Data Engineering, Data S
 
 ## 🚀 Featured Projects
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) 
-Proyecto de Arquitectura Medallón con Databricks y Delta Lake 
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) – Proyecto de Arquitectura Medallón con Databricks y Delta Lake 
   
 
 
