@@ -40,7 +40,7 @@ Currently based in Spain and open to opportunities in **Data Engineering, Data S
 -  Proyecto de Arquitectura Medallón con Databricks y Delta Lake 
    - 🔗 https://github.com/cjhd92/Arquitectura-Medall-n-con-Databricks-y-Delta-Lake.git
 -  Proyecto Databricks: Transporte Público en A Coruña
-   - 🔗 https://github.com/cjhd92/Arquitectura-Medall-n-con-Databricks-y-Delta-Lake.git
+   - 🔗 https://github.com/cjhd92/Proyecto-Databricks-Transporte-P-blico-en-A-Coru-a.git
 
 
 
