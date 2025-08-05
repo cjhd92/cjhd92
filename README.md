@@ -35,9 +35,9 @@ Currently based in Spain and open to opportunities in **Data Engineering, Data S
 
 ## 🚀 Featured Projects
 
-- **🚍 Public Transport Mobility Data Pipeline**  
-  Designed and implemented ETL pipelines for a system estimating origin-destination matrices in public transport.  
-  Tools: Python, dbt, Airflow, AWS S3, Glue, Athena  
+- **![Databricks](https://img.shields.io/badge/Powered%20by-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+  Databricks, Delta Lake y la arquitectura de Medallón**  
+  
   [🔗 View on GitHub](https://github.com/cjhd92/consumo-energia-etl.git)
 
 - **🏭 Industrial Data Automation Project**  
