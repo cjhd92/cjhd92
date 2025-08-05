@@ -35,9 +35,9 @@ Currently based in Spain and open to opportunities in **Data Engineering, Data S
 
 ## 🚀 Featured Projects
 
-- ** Databricks, Delta Lake y la arquitectura de Medallón**  
-  ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="40" height="40"/>
+- ** ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white), Delta Lake y la arquitectura de Medallón**  
+  
+
 
   [🔗 View on GitHub](https://github.com/cjhd92/consumo-energia-etl.git)
 
